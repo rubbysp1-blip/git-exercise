@@ -15,5 +15,10 @@ public class App {
         //It disappeared because the changes were being made in the branch instead
         //of being made in the main branch. Also, both branches were still not
         //merge to each other.
+
+        //You can explain, in one or two sentences,
+        //how the fix went live without the unfinished goodbye feature
+        // The fix went live because it is a separate branch from the unfinished
+        // goodbye. Since the unfinished branch was not merge yet it does not get touch either.
     }
 }
